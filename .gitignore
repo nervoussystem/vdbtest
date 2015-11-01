@@ -73,3 +73,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.pdb
+x64/Release/vdbTest.log
+*.tlog
